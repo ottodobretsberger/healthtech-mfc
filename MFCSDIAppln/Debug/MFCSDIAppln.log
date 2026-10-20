@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  MainFrm.cpp
+  MFCSDIAppln.cpp
+  MFCSDIApplnDoc.cpp
+  MFCSDIApplnView.cpp
+  MyEditView.cpp
+  MyFrmView.cpp
+  ToolComboBox.cpp
+  Generating Code...
+  LINK : C:\Users\ottod\OneDrive\Desktop\mfc\Debug\MFCSDIAppln.exe not found or not built by the last incremental link; performing full link
+  MFCSDIAppln.vcxproj -> C:\Users\ottod\OneDrive\Desktop\mfc\Debug\MFCSDIAppln.exe
